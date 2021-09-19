@@ -1,0 +1,12 @@
+root - INFO - SUCCESS: data/bank_data.csv loaded shape (10127, 22)
+root - INFO - SUCCESS: Testing import_data
+root - INFO - SUCCESS: data/bank_data.csv loaded shape (10127, 22)
+root - INFO - SUCCESS: Testing add_response_column
+root - INFO - SUCCESS: data/bank_data.csv loaded shape (10127, 22)
+root - INFO - SUCCESS: Testing perform_eda
+root - INFO - SUCCESS: data/bank_data.csv loaded shape (10127, 22)
+root - INFO - SUCCESS: Testing encoder_helper
+root - INFO - SUCCESS: data/bank_data.csv loaded shape (10127, 22)
+root - INFO - SUCCESS: Testing perform_feature_engineering
+root - INFO - SUCCESS: Testing perform_feature_engineering: all shapes are correct
+root - INFO - SUCCESS: Testing train_model
